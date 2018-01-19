@@ -83,4 +83,3 @@ contract ZHTToken is StandardToken {
         return true;
     }
 }
-
