@@ -1,2 +1,2 @@
-# CoinDemo
-Yay I created coins
+# ZHTToken
+Yay I created my own token!
